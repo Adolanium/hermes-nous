@@ -45,5 +45,28 @@ window.NOUS = [
   "send": "#ffc83d",
   "sendInk": "#0f0b26",
   "muted": "#a79cc9"
+ },
+ {
+  "art": "webp",
+  "font": {
+   "family": "god-duo",
+   "file": "Monoton.woff2",
+   "weight": 400
+  },
+  "name": "duo",
+  "label": "Nous Girl & Hermes",
+  "description": "The two leads together, one star between them: pink and gold, by day and by night",
+  "myth": "Two leads, one star: the Nous Girl and Hermes reach for it together.",
+  "light": false,
+  "bg": "#140a26",
+  "ink": "#f6eaff",
+  "dim": "#8f78ad",
+  "rule": "#ff4fae",
+  "tone": "#2a1745",
+  "surface": "#1a0d2d",
+  "card": "#1c0f30",
+  "send": "#ff4fae",
+  "sendInk": "#150a24",
+  "muted": "#a993c4"
  }
 ];

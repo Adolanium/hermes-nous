@@ -11,7 +11,7 @@
   Themes for Hermes Desktop, painted like the loading screen of an open-world game: heavy ink outlines,
   a striped sunset sun, palm silhouettes and a collage of snapshots. Each character brings their own palette
   for light and dark mode, and the HERMES AGENT name glows like a neon sign.
-  It starts with the Nous Girl and Hermes, the messenger god.
+  It starts with the Nous Girl, Hermes the messenger god, and the two of them together.
 
   <sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; COMMUNITY THEMES &nbsp;·&nbsp; VERSION 0.1.0</sub>
 
@@ -21,7 +21,7 @@
 
 </div>
 
-![Two columns side by side: the Nous Girl in white headphones before a striped sunset sun, and Hermes in a winged helmet before a sun bearing the caduceus, each above a collage of sunset snapshots](media/banner.png)
+![Three columns side by side: the Nous Girl in white headphones, Hermes in a winged helmet, and the two of them together, each before a striped sunset sun and above a collage of sunset snapshots](media/banner.png)
 
 ## Try it in a minute
 
@@ -62,9 +62,11 @@ Click a card to see the full window.
 
 | [![Nous Girl: sunset coast, the Nous Girl reaching for a star](media/cards/girl.png?v=0.1.0)](media/shots/girl.png?v=0.1.0) | [![Hermes: the messenger god at dusk, caduceus raised](media/cards/hermes.png?v=0.1.0)](media/shots/hermes.png?v=0.1.0) |
 |:---:|:---:|
+| [![Nous Girl & Hermes: the two leads together, one star between them](media/cards/duo.png?v=0.1.0)](media/shots/duo.png?v=0.1.0) | |
 
 - **Nous Girl** (`girl`): black bob, blunt bangs and white headphones, reaching for a star over the sunset coast. Pastel cream and coral by day, neon pink and cyan by night.
 - **Hermes** (`hermes`): the messenger god as a city courier, winged helmet, winged sneakers and a golden caduceus, sprinting the dusk freeway with a sealed message. Ivory and gold by day, deep violet and molten gold by night.
+- **Nous Girl & Hermes** (`duo`): both leads on one cover, like a two-protagonist game. She reaches for the star, he raises the caduceus beside her. Cream with pink and gold by day, deep violet with neon pink and gold by night.
 
 ## Switch any time
 
@@ -76,9 +78,9 @@ Every Nous theme is a normal Hermes theme, so all the usual ways to switch work:
 | **Command palette** | Press <kbd>Ctrl</kbd> <kbd>K</kbd> (<kbd>⌘</kbd> <kbd>K</kbd> on macOS), choose **Change theme**, and pick one. |
 | **Settings** | **Settings → Appearance → Theme**. |
 
-The names are `girl` and `hermes`. To go back to the stock look, type `/skin nous`.
+The names are `girl`, `hermes` and `duo`. To go back to the stock look, type `/skin nous`.
 
-Hermes remembers your choice for each profile, so a work profile can keep Hermes while a personal one keeps the Nous Girl.
+Hermes remembers your choice for each profile, so a work profile can keep Hermes while a personal one keeps the duo.
 
 ## Small decisions, already made
 
