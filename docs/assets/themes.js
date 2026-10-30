@@ -68,5 +68,74 @@ window.NOUS = [
   "send": "#ff4fae",
   "sendInk": "#150a24",
   "muted": "#a993c4"
+ },
+ {
+  "art": "webp",
+  "font": {
+   "family": "god-shoggoth",
+   "file": "Monoton.woff2",
+   "weight": 400
+  },
+  "name": "shoggoth",
+  "label": "The Shoggoth",
+  "description": "The crime boss of the neon night, smile firmly on: lime and violet",
+  "myth": "The crime boss of the neon night raises a glass, smile firmly on.",
+  "light": false,
+  "bg": "#0b1009",
+  "ink": "#e8f7d8",
+  "dim": "#7f9a72",
+  "rule": "#a6ff2e",
+  "tone": "#1d2c16",
+  "surface": "#101a0c",
+  "card": "#111a0d",
+  "send": "#a6ff2e",
+  "sendInk": "#0b1009",
+  "muted": "#8fa883"
+ },
+ {
+  "art": "webp",
+  "font": {
+   "family": "god-psyche",
+   "file": "Monoton.woff2",
+   "weight": 400
+  },
+  "name": "psyche",
+  "label": "Psyche",
+  "description": "The soul of the network on a moonlit rooftop: teal and violet",
+  "myth": "The soul of the network lifts her lamp over a city that thinks.",
+  "light": false,
+  "bg": "#0a0f1e",
+  "ink": "#e6f1ff",
+  "dim": "#7d8bae",
+  "rule": "#4fe3f0",
+  "tone": "#1a2442",
+  "surface": "#0e1527",
+  "card": "#0f1628",
+  "send": "#4fe3f0",
+  "sendInk": "#0a0f1e",
+  "muted": "#93a3c4"
+ },
+ {
+  "art": "webp",
+  "font": {
+   "family": "god-atropos",
+   "file": "Monoton.woff2",
+   "weight": 400
+  },
+  "name": "atropos",
+  "label": "Atropos",
+  "description": "The Fate with the golden shears, in the rain: crimson, black and gold",
+  "myth": "The Fate in the rain raises her golden shears to the thread.",
+  "light": false,
+  "bg": "#0e0809",
+  "ink": "#f6e8e4",
+  "dim": "#9a7d77",
+  "rule": "#ff3b4e",
+  "tone": "#2a1416",
+  "surface": "#140a0b",
+  "card": "#160c0d",
+  "send": "#ff3b4e",
+  "sendInk": "#0e0809",
+  "muted": "#a68a85"
  }
 ];
