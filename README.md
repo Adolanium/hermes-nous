@@ -11,7 +11,7 @@
   Themes for Hermes Desktop, painted like the loading screen of an open-world game: heavy ink outlines,
   a striped sunset sun, palm silhouettes and a collage of snapshots. Each character brings their own palette
   for light and dark mode, and the HERMES AGENT name glows like a neon sign.
-  Six heroes: the Nous Girl, Hermes the messenger god, the two of them together, the Shoggoth, Psyche and Atropos.
+  It starts with the Nous Girl, Hermes the messenger god, and the two of them together.
 
   <sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; COMMUNITY THEMES &nbsp;·&nbsp; VERSION 0.1.0</sub>
 
@@ -21,7 +21,7 @@
 
 </div>
 
-![Six columns side by side, one per hero, each before a striped sun and above a collage of snapshots: the Nous Girl, Hermes, the two together, the Shoggoth, Psyche and Atropos](media/banner.png)
+![Three columns side by side: the Nous Girl in white headphones, Hermes in a winged helmet, and the two of them together, each before a striped sunset sun and above a collage of sunset snapshots](media/banner.png)
 
 ## Try it in a minute
 
@@ -62,15 +62,11 @@ Click a card to see the full window.
 
 | [![Nous Girl: sunset coast, the Nous Girl reaching for a star](media/cards/girl.png?v=0.1.0)](media/shots/girl.png?v=0.1.0) | [![Hermes: the messenger god at dusk, caduceus raised](media/cards/hermes.png?v=0.1.0)](media/shots/hermes.png?v=0.1.0) |
 |:---:|:---:|
-| [![Nous Girl & Hermes: the two leads together, one star between them](media/cards/duo.png?v=0.1.0)](media/shots/duo.png?v=0.1.0) | [![The Shoggoth: the crime boss of the neon night, smile firmly on](media/cards/shoggoth.png?v=0.1.0)](media/shots/shoggoth.png?v=0.1.0) |
-| [![Psyche: the soul of the network on a moonlit rooftop](media/cards/psyche.png?v=0.1.0)](media/shots/psyche.png?v=0.1.0) | [![Atropos: the Fate with the golden shears, in the rain](media/cards/atropos.png?v=0.1.0)](media/shots/atropos.png?v=0.1.0) |
+| [![Nous Girl & Hermes: the two leads together, one star between them](media/cards/duo.png?v=0.1.0)](media/shots/duo.png?v=0.1.0) | |
 
 - **Nous Girl** (`girl`): black bob, blunt bangs and white headphones, reaching for a star over the sunset coast. Pastel cream and coral by day, neon pink and cyan by night.
 - **Hermes** (`hermes`): the messenger god as a city courier, winged helmet, winged sneakers and a golden caduceus, sprinting the dusk freeway with a sealed message. Ivory and gold by day, deep violet and molten gold by night.
 - **Nous Girl & Hermes** (`duo`): both leads on one cover, like a two-protagonist game. She reaches for the star, he raises the caduceus beside her. Cream with pink and gold by day, deep violet with neon pink and gold by night.
-- **The Shoggoth** (`shoggoth`): the many-eyed creature from Nous Research's [Steering the Shoggoth](https://nousresearch.com/steering-the-shoggoth-taming-llms-with-sequential-monte-carlo), as the crime boss of the neon night: white suit, gold chain, smiley mask held firmly in place. Lime and violet.
-- **Psyche** (`psyche`): named for [Psyche](https://nousresearch.com/nous-psyche), Nous Research's decentralized training network. The soul as a night-shift hacker with wings made of network lines, raising a clay lamp over a city that thinks. Teal and violet under the moon.
-- **Atropos** (`atropos`): named for [Atropos](https://nousresearch.com/introducing-atropos), their reinforcement-learning framework. The Fate who cuts the thread, as a noir fixer with golden shears in the rain. Crimson, black and gold.
 
 ## Switch any time
 
@@ -82,7 +78,7 @@ Every Nous theme is a normal Hermes theme, so all the usual ways to switch work:
 | **Command palette** | Press <kbd>Ctrl</kbd> <kbd>K</kbd> (<kbd>⌘</kbd> <kbd>K</kbd> on macOS), choose **Change theme**, and pick one. |
 | **Settings** | **Settings → Appearance → Theme**. |
 
-The names are `girl`, `hermes`, `duo`, `shoggoth`, `psyche` and `atropos`. To go back to the stock look, type `/skin nous`.
+The names are `girl`, `hermes` and `duo`. To go back to the stock look, type `/skin nous`.
 
 Hermes remembers your choice for each profile, so a work profile can keep Hermes while a personal one keeps the duo.
 
