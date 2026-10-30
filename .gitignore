@@ -1,0 +1,20 @@
+# Allowlist: only what users need is published. Everything else here stays local.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/LICENSES/
+!/plugin.yaml
+!/desktop/
+!/cli/
+!/docs/
+!/assets/
+
+!/media/
+/media/*
+!/media/banner.png
+!/media/cards/
+!/media/shots/
+
+# Python bytecode from running cli/build_skins.py
+__pycache__/
