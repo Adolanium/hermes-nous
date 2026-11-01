@@ -1,6 +1,6 @@
 name: hermes-nous
-version: "0.1.0"
-description: "Hermes Desktop themes painted like an 80s game loading screen: Nous Research characters, starting with the Nous Girl and Hermes, each in light and dark. Unofficial; not affiliated with Nous Research."
+version: "0.2.0"
+description: "Hermes Desktop themes as video game tributes: Nous Research characters as 80s open-world heroes and as high-fantasy MMO heroes (the Nous Girl as an arcane mage, Hermes as a paladin), each in light and dark. Unofficial; not affiliated with Nous Research or any game publisher."
 author: Adolanium
 manifest_version: 1
 kind: standalone

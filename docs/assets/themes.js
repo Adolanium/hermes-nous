@@ -68,5 +68,74 @@ window.NOUS = [
   "send": "#ff4fae",
   "sendInk": "#150a24",
   "muted": "#a993c4"
+ },
+ {
+  "art": "webp",
+  "font": {
+   "family": "god-sorceress",
+   "file": "CinzelDecorative.woff2",
+   "weight": 700
+  },
+  "name": "sorceress",
+  "label": "Arcane Mage",
+  "description": "Floating spires under the moon, the Nous Girl as an arcane mage calling down a star: parchment by day, arcane night",
+  "myth": "The Nous Girl, arcane mage, calls a star down over the floating spires.",
+  "light": false,
+  "bg": "#0f0d24",
+  "ink": "#efeaff",
+  "dim": "#747087",
+  "rule": "#9d7bff",
+  "tone": "#161232",
+  "surface": "#13102d",
+  "card": "#13102d",
+  "send": "#9d7bff",
+  "sendInk": "#0f0d24",
+  "muted": "#8a879c"
+ },
+ {
+  "art": "webp",
+  "font": {
+   "family": "god-herald",
+   "file": "CinzelDecorative.woff2",
+   "weight": 700
+  },
+  "name": "herald",
+  "label": "Paladin Herald",
+  "description": "Hermes as a paladin of the gods on the road to the marble city, caduceus raised: ivory and gold by day, violet dusk by night",
+  "myth": "Hermes, paladin of the gods, carries the sealed word across the realm.",
+  "light": false,
+  "bg": "#140d22",
+  "ink": "#fbf1d8",
+  "dim": "#7c7474",
+  "rule": "#f2c14e",
+  "tone": "#1d132d",
+  "surface": "#191129",
+  "card": "#191129",
+  "send": "#f2c14e",
+  "sendInk": "#140d22",
+  "muted": "#938a86"
+ },
+ {
+  "art": "webp",
+  "font": {
+   "family": "god-party",
+   "file": "CinzelDecorative.woff2",
+   "weight": 700
+  },
+  "name": "party",
+  "label": "Mage & Paladin",
+  "description": "Two heroes, one quest, under a moon-and-sun sky: parchment with violet and gold by day, indigo night by night",
+  "myth": "Two heroes, one quest: the mage and the paladin set out together.",
+  "light": false,
+  "bg": "#100c22",
+  "ink": "#f3edff",
+  "dim": "#767185",
+  "rule": "#a884ff",
+  "tone": "#17122e",
+  "surface": "#15102a",
+  "card": "#15102a",
+  "send": "#a884ff",
+  "sendInk": "#100c22",
+  "muted": "#8d889c"
  }
 ];

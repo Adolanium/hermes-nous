@@ -6,14 +6,14 @@
 
   # Nous
 
-  **Nous Research characters as 80s game heroes, for your Hermes desktop.**
+  **Nous Research characters as video game heroes, for your Hermes desktop.**
 
-  Themes for Hermes Desktop, painted like the loading screen of an open-world game: heavy ink outlines,
-  a striped sunset sun, palm silhouettes and a collage of snapshots. Each character brings their own palette
-  for light and dark mode, and the HERMES AGENT name glows like a neon sign.
-  It starts with the Nous Girl, Hermes the messenger god, and the two of them together.
+  Themes for Hermes Desktop, each set a tribute to a kind of game, painted like its loading screen.
+  The 80s set puts the Nous Girl and Hermes on a sunset coast with heavy ink outlines, palm silhouettes and a neon sign.
+  The fantasy set makes her an arcane mage and him a paladin under floating spires, with a gilded wordmark.
+  Every theme brings its own palette for light and dark mode.
 
-  <sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; COMMUNITY THEMES &nbsp;·&nbsp; VERSION 0.1.0</sub>
+  <sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; COMMUNITY THEMES &nbsp;·&nbsp; VERSION 0.2.0</sub>
 
   <br /><br />
 
@@ -21,7 +21,7 @@
 
 </div>
 
-![Three columns side by side: the Nous Girl in white headphones, Hermes in a winged helmet, and the two of them together, each before a striped sunset sun and above a collage of sunset snapshots](media/banner.png)
+![Six columns side by side: the 80s set (the Nous Girl in white headphones, Hermes in a winged helmet, the two together before a striped sunset sun) and the fantasy set (the Nous Girl as an arcane mage in white and violet robes, Hermes as a paladin in white-and-gold plate, the two together before a moon-and-sun disc), each above a collage of snapshots](media/banner.png?v=0.2.0)
 
 ## Try it in a minute
 
@@ -54,19 +54,31 @@ If it asks whether to enable the plugin, either answer works. That switch is for
 /skin girl
 ```
 
-The whole app changes on the spot, with no restart. Try `/skin hermes` next, or plain `/skin` to step through every theme you have.
+The whole app changes on the spot, with no restart. Try `/skin sorceress` for the fantasy set, or plain `/skin` to step through every theme you have.
 
 ## Meet the heroes
 
 Click a card to see the full window.
 
-| [![Nous Girl: sunset coast, the Nous Girl reaching for a star](media/cards/girl.png?v=0.1.0)](media/shots/girl.png?v=0.1.0) | [![Hermes: the messenger god at dusk, caduceus raised](media/cards/hermes.png?v=0.1.0)](media/shots/hermes.png?v=0.1.0) |
+### The 80s set: open-world sunset
+
+| [![Nous Girl: sunset coast, the Nous Girl reaching for a star](media/cards/girl.png?v=0.2.0)](media/shots/girl.png?v=0.2.0) | [![Hermes: the messenger god at dusk, caduceus raised](media/cards/hermes.png?v=0.2.0)](media/shots/hermes.png?v=0.2.0) |
 |:---:|:---:|
-| [![Nous Girl & Hermes: the two leads together, one star between them](media/cards/duo.png?v=0.1.0)](media/shots/duo.png?v=0.1.0) | |
+| [![Nous Girl & Hermes: the two leads together, one star between them](media/cards/duo.png?v=0.2.0)](media/shots/duo.png?v=0.2.0) | |
 
 - **Nous Girl** (`girl`): black bob, blunt bangs and white headphones, reaching for a star over the sunset coast. Pastel cream and coral by day, neon pink and cyan by night.
 - **Hermes** (`hermes`): the messenger god as a city courier, winged helmet, winged sneakers and a golden caduceus, sprinting the dusk freeway with a sealed message. Ivory and gold by day, deep violet and molten gold by night.
 - **Nous Girl & Hermes** (`duo`): both leads on one cover, like a two-protagonist game. She reaches for the star, he raises the caduceus beside her. Cream with pink and gold by day, deep violet with neon pink and gold by night.
+
+### The fantasy set: a high-fantasy realm
+
+| [![Arcane Mage: the Nous Girl calling down a star over floating spires](media/cards/sorceress.png?v=0.2.0)](media/shots/sorceress.png?v=0.2.0) | [![Paladin Herald: Hermes in white-and-gold plate, caduceus raised](media/cards/herald.png?v=0.2.0)](media/shots/herald.png?v=0.2.0) |
+|:---:|:---:|
+| [![Mage & Paladin: the two heroes together under a moon-and-sun sky](media/cards/party.png?v=0.2.0)](media/shots/party.png?v=0.2.0) | |
+
+- **Arcane Mage** (`sorceress`): the Nous Girl in white and violet robes, her headphones glowing with arcane runes, calling a star down over floating spires with a crystal staff. Parchment and violet by day, arcane indigo and cyan by night.
+- **Paladin Herald** (`herald`): Hermes in white-and-gold plate with winged pauldrons, a caduceus tabard and a glowing caduceus mace-staff, on the road to the marble city. Ivory and gold by day, violet dusk and gold by night.
+- **Mage & Paladin** (`party`): the two heroes on one cover, like an expansion box. She calls down the star, he raises the caduceus. Parchment with violet and gold by day, indigo night with violet and gold by night.
 
 ## Switch any time
 
@@ -78,15 +90,15 @@ Every Nous theme is a normal Hermes theme, so all the usual ways to switch work:
 | **Command palette** | Press <kbd>Ctrl</kbd> <kbd>K</kbd> (<kbd>⌘</kbd> <kbd>K</kbd> on macOS), choose **Change theme**, and pick one. |
 | **Settings** | **Settings → Appearance → Theme**. |
 
-The names are `girl`, `hermes` and `duo`. To go back to the stock look, type `/skin nous`.
+The names are `girl`, `hermes`, `duo`, `sorceress`, `herald` and `party`. To go back to the stock look, type `/skin nous`.
 
 Hermes remembers your choice for each profile, so a work profile can keep Hermes while a personal one keeps the duo.
 
 ## Small decisions, already made
 
 - **One install, every hero.** All the themes ship in a single plugin. There's nothing to choose at install time and nothing extra to download later.
-- **Same picture, day or night.** Each theme has a light and a dark palette and follows your Hermes light/dark setting. The art is painted at sunset and cut out cleanly, so it looks the same on either ground.
-- **A frame of its own.** The HERMES AGENT wordmark is a neon sign, rules are neon tubes from the character's two colours, the active tab lights up, and the empty chat opens with a small ★ NEW MISSION ★ card.
+- **Same picture, day or night.** Each theme has a light and a dark palette and follows your Hermes light/dark setting. The art is cut out cleanly, so it looks the same on either ground.
+- **A frame of its own.** Each set letters the HERMES AGENT wordmark in its own face (a neon sign for the 80s set, gilded capitals for the fantasy set). Rules glow in the character's two colours, the active tab lights up, and the empty chat opens with a small ★ NEW MISSION ★ or ✦ NEW QUEST ✦ card.
 - **Sharp on any screen.** The art is painted at twice its display size, so it stays crisp on high-density displays.
 - **Nothing leaves your machine.** The art and the fonts are packed into `plugin.js`, so themes switch instantly and work fully offline.
 - **The chat stays readable.** The art lives in the sidebar and the empty new-session screen. Once a conversation starts, it's text on a calm ground.
@@ -104,7 +116,7 @@ Or use **Capabilities → Plugins**: switch **Nous** off to hide the themes, or 
 
 - **Theme registration** through the Desktop plugin SDK, the same way any theme plugin adds itself to the picker.
 - **Style rules** that apply only while a Nous theme is active, and disappear when you switch away.
-- **Fonts**, bundled inside the plugin under the [SIL Open Font License](LICENSES): IBM Plex Sans and IBM Plex Mono for the interface, and Monoton for the neon wordmark.
+- **Fonts**, bundled inside the plugin under the [SIL Open Font License](LICENSES): IBM Plex Sans and IBM Plex Mono for the interface, Monoton for the neon wordmark, and Cinzel Decorative for the fantasy wordmark.
 
 It makes no network requests, adds no agent tools, hooks, background processes or settings, and reads none of your data.
 
@@ -140,4 +152,4 @@ Nous installs side by side with the god packs, and none of their theme names ove
 
 > **Community project**
 >
-> Nous is an independent community theme pack. It is not affiliated with, endorsed by, sponsored by, or officially associated with [Nous Research](https://github.com/NousResearch) or the [Hermes Agent project](https://github.com/NousResearch/hermes-agent). Hermes, Hermes Agent, and Nous Research are names and marks belonging to their respective owners. The characters are original artwork inspired by Nous Research; the loading-screen style is an homage to a genre, not to any one game.
+> Nous is an independent community theme pack. It is not affiliated with, endorsed by, sponsored by, or officially associated with [Nous Research](https://github.com/NousResearch) or the [Hermes Agent project](https://github.com/NousResearch/hermes-agent). Hermes, Hermes Agent, and Nous Research are names and marks belonging to their respective owners. The characters are original artwork inspired by Nous Research. Each set's style is an homage to a genre, not to any one game, and the pack is not affiliated with any game publisher.
